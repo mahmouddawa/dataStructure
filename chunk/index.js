@@ -29,12 +29,12 @@ function chunk(array, size) {
   }
   
  return ArrayTempAll; 
-
-
 }
 
 module.exports = chunk;
 
+
+// #solution 2
 // function chunck(array, size){
 //   const chunked = [];
 //   let index = 0;
@@ -48,7 +48,7 @@ module.exports = chunk;
 
 // }
 
-
+//#solution 3
 // function chunk(array, size) {
 // const chunked = [];
 
