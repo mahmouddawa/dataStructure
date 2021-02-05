@@ -11,6 +11,10 @@
 // 4       5
 // Answer: [1, 3, 2]
 
-function levelWidth(root) {}
+function levelWidth(root) {
+  let count = [];
+  let arr = [root];
+
+}
 
 module.exports = levelWidth;
