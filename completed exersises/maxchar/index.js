@@ -35,3 +35,21 @@ return maxChar
 
 
 module.exports = maxChar;
+
+
+// const map = {};
+// let max = 0;
+// let maxChar = '';
+// for(let i = 0;i<str.length; i++){
+//     if(map[str[i]]){
+//         map[str[i]]++
+//     }
+//     else map[str[i]] = 1;
+// }
+// for(let char in map){
+//     if(map[char]>max){
+//         max = map[char];
+//         maxChar = char;
+//     }
+// }
+// return maxChar;
